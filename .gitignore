@@ -1,0 +1,52 @@
+# Data and artifacts (created by pipeline scripts, do not commit)
+data/
+data_backup/
+
+# Evaluation run outputs (reproducible runtime artifacts)
+eval/results/
+eval/answers/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.env
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files from atomic writes and editors
+*.tmp
+*.part

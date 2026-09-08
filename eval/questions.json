@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q01",
+    "type": "answerable",
+    "question": "How do LLM agents use external tools or APIs?",
+    "relevant_ids": ["2503.11733", "2412.08054", "2509.16325"]
+  },
+  {
+    "id": "q02",
+    "type": "answerable",
+    "question": "What memory mechanisms are used by LLM agents?",
+    "relevant_ids": ["2507.22925", "2605.17641", "2502.12110", "2603.03296"]
+  },
+  {
+    "id": "q03",
+    "type": "answerable",
+    "question": "How do multi-agent LLM systems coordinate or cooperate?",
+    "relevant_ids": ["2403.12482", "2507.17753", "2509.16325"]
+  },
+  {
+    "id": "q04",
+    "type": "answerable",
+    "question": "What are safety risks or failure modes of LLM agents?",
+    "relevant_ids": ["2412.14470", "2406.03007", "2606.22698"]
+  },
+  {
+    "id": "q05",
+    "type": "answerable",
+    "question": "How are LLM agents evaluated on web navigation or web decision-making tasks?",
+    "relevant_ids": ["2503.10689", "2401.13178"]
+  },
+  {
+    "id": "q06",
+    "type": "answerable",
+    "question": "How are LLM agents applied in recruitment or resume screening?",
+    "relevant_ids": ["2401.08315"]
+  },
+  {
+    "id": "q07",
+    "type": "answerable",
+    "question": "What role does self-reflection play in LLM agents?",
+    "relevant_ids": ["2405.06682"]
+  },
+  {
+    "id": "q08",
+    "type": "answerable",
+    "question": "How do agents handle long-horizon tasks and error recovery?",
+    "relevant_ids": ["2502.05227", "2605.20833"]
+  },
+  {
+    "id": "n01",
+    "type": "near_miss",
+    "question": "How does BERT pretraining work?",
+    "relevant_ids": []
+  },
+  {
+    "id": "n02",
+    "type": "near_miss",
+    "question": "What metrics are used to evaluate machine translation?",
+    "relevant_ids": []
+  },
+  {
+    "id": "n03",
+    "type": "near_miss",
+    "question": "How does LoRA low-rank adaptation work for fine-tuning?",
+    "relevant_ids": []
+  },
+  {
+    "id": "n04",
+    "type": "near_miss",
+    "question": "What is byte pair encoding in tokenizers?",
+    "relevant_ids": []
+  },
+  {
+    "id": "o01",
+    "type": "off_topic",
+    "question": "How do I cook pasta carbonara?",
+    "relevant_ids": []
+  },
+  {
+    "id": "o02",
+    "type": "off_topic",
+    "question": "What is the capital of Australia?",
+    "relevant_ids": []
+  },
+  {
+    "id": "o03",
+    "type": "off_topic",
+    "question": "How do airplanes stay in the air?",
+    "relevant_ids": []
+  },
+  {
+    "id": "o04",
+    "type": "off_topic",
+    "question": "Who won the 2018 World Cup?",
+    "relevant_ids": []
+  }
+]
